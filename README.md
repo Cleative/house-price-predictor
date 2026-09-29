@@ -13,3 +13,11 @@ Test RMSE: 22.94 million RWF
 `streamlit run app.py`
 ## Live app
 https://your-app-name.streamlit.app
+## Project Structure
+
+- `app.py` – Streamlit web application for house price prediction
+- `house_price_model.sav` – Trained Linear Regression model
+- `house_price_prediction_dataset.csv` – Original dataset
+- `house_price_prediction_cleaned.csv` – Cleaned dataset
+- `Machine_Learning_Assignment_2_Solution.ipynb` – Machine learning analysis and model development
+- `requirements.txt` – Python dependencies
