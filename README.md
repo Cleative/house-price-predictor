@@ -12,4 +12,4 @@ Test RMSE: 22.94 million RWF
 `pip install -r requirements.txt`
 `streamlit run app.py`
 ## Live app
-Add the Streamlit Community Cloud URL after deployment.
+https://your-app-name.streamlit.app
